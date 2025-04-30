@@ -82,7 +82,10 @@ Por fim, responda as questões abaixo no seu `fork`:
 
 ![alt text](image.png)
 
-3. Explicação: O gráfico mostra que o repositorio do transformers teve uma evolução constante, não brusca, como podemos ver em muitos repositórios relacionados com Inteligência Artifical que nos últimos anos tiveram uma evolução muito rápida. Em 2020, o repositório tinha cerca de 70 mil linhas e em 2025, o repositório tem 1.54 milhão de linhas de código. Apesar de não ter uma subida repentina no LOC, mas vemos que ano a ano, a média de LOC foi de 300 mil.
+3. Explicação:
+
+
+O gráfico mostra que o repositorio do transformers teve uma evolução constante, não brusca, como podemos ver em muitos repositórios relacionados com Inteligência Artifical que nos últimos anos tiveram uma evolução muito rápida. Em 2020, o repositório tinha cerca de 70 mil linhas e em 2025, o repositório tem 1.54 milhão de linhas de código. Apesar de não ter uma subida repentina no LOC, mas vemos que ano a ano, a média de LOC foi de 300 mil.
 
 O gráfico evidencia a evolução constante no número de linhas de código (LOC) do repositório transformers. Em 2020, o projeto contava com aproximadamente 70 mil linhas de código e esse número cresceu progressivamente até atingir cerca de 1,54 milhão em 2025. Esse crescimento não apresenta saltos nem quedas, o que sugere uma evolução sustentável do código. Diferentemente de outros repositórios relacionados à área de inteligência artificial, que frequentemente registram aumentos repentinos de LOC em curtos períodos, o que pode indicar acúmulo desorganizado de funcionalidades, o transformers apresenta um acréscimo médio anual de cerca de 300 mil linhas.
 
